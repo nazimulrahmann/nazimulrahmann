@@ -2,15 +2,15 @@
 <h3 align="center">📊 Artificial Intelligence Engineer | Python • C++ • PyTorch | Learning &  Innovating</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=70CFFF&center=true&vCenter=true&width=500&lines=Artific+Intelligence+Engineer;Machine+Learning;Deep+Learning;Reinforcement+Learning;Natural+Language+Processing;+Computer+Vision;Generative+AI;Python+Developer;Large+Language+Models;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=70CFFF&center=true&vCenter=true&width=500&lines=Artificl+Intelligence+Engineer;Data+Science;Machine+Learning;Deep+Learning;Reinforcement+Learning;Natural+Language+Processing;+Computer+Vision;Generative+AI;Large+Language+Models;Python+Developer" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 BS Computer Science **Virtual University**, NNS  
-- 🔬 BSc in Computer Science & Engineering from **Punjab University**,  
+- 🎓 BS Computer Science **Virtual University**, Lahore
+- 🔬 BSc in Computer Science & Engineering from **Punjab University**,Lahore
 - 📊 Passionate about using **Machine Learning & AI, Python Developer** to solve real-world problems  
 - 🌱 Currently diving deeper into **Deep learning,Large Language Models**  
 
